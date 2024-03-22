@@ -12,7 +12,6 @@ After that the signal is fed into the LM393 Comparator. Keep in mind that to get
 ### Modularity
 
 In the standard configuration of the PCB 2 Channels are set up but if you have a weaker Signal you can cut the S2_EN between 1/2 and solder 2/3. By populating R17 and R18 you can transform your 1 Stage Amplifier in a 3 Stage Amplifier.
-![anemometer.svg](images/anemometer.svg)
 If you need an additional Filter you can cut EN_Filter and populate the Bandpass-Filter on the backside of the PCB.
 
 ### Full Circuit
