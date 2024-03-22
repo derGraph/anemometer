@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "qr")(type "KiCad")(uri "${KIPRJMOD}/qr.pretty")(options "")(descr ""))
+)

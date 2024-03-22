@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.5*%
+%TF.CreationDate,2024-03-20T19:06:25+01:00*%
+%TF.ProjectId,anemometer,616e656d-6f6d-4657-9465-722e6b696361,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.5) date 2024-03-20 19:06:25*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X68500000Y-79000000D02*
+X120500000Y-79000000D01*
+X120500000Y-105000000D01*
+X68500000Y-105000000D01*
+X68500000Y-79000000D01*
+M02*
